@@ -1,0 +1,5 @@
+IP: 84.201.164.41;
+name_taski: https://40umov.hopto.org;
+name_kittygram: https://kittygram40umov.hopto.org;
+login: 40umov;
+password: pyatka;
