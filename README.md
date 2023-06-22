@@ -163,3 +163,7 @@
 - Gunicorn
 - Django (backend)
 - React (frontend)
+
+### Автор проекта:
+
+Сорокоумов Евгений
