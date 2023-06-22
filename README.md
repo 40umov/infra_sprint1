@@ -16,8 +16,8 @@
  - установить зависимости `pip install -r requirements.txt`
  - в директории /backend/kittygram_backend/ создать файл .env
  - сгенерировать секрктный ключ с помощью команды:
-   (venv) $ python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
- - в файле .env прописать ваш SECRET_KEY в виде: `SECRET_KEY = '<ваш_ключ>' и `ALLOWED_HOSTS = '['localhost']'`
+   `(venv) $ python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'`
+ - в файле .env прописать ваш SECRET_KEY в виде: `SECRET_KEY = '<ваш_ключ>'` и `ALLOWED_HOSTS = '['localhost']'`
 
 ### Деплой проекта на удаленный сервер
 
